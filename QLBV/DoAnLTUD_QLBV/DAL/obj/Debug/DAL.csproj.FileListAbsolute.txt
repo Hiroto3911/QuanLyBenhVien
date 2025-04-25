@@ -1,0 +1,74 @@
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.dll
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.pdb
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.dll
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.pdb
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.dll
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.pdb
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.dll
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.pdb
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.dll
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.pdb
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.dll
+C:\Users\TDF\Downloads\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.pdb
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.dll
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.pdb
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.dll
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.pdb
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.dll
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.pdb
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.dll.config
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\DAL.pdb
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Buffers.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.IO.Pipelines.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Memory.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Numerics.Vectors.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Text.Encodings.Web.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Text.Json.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.ValueTuple.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\ET.pdb
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Buffers.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.IO.Pipelines.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Memory.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Numerics.Vectors.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Text.Encodings.Web.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Text.Json.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\System.ValueTuple.xml
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\obj\Debug\DAL.pdb
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\DAL\bin\Debug\appsettings.json

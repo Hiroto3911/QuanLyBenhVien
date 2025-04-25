@@ -1,0 +1,18 @@
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\bin\Debug\ET.dll
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\bin\Debug\ET.pdb
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.dll
+D:\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.pdb
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\bin\Debug\ET.dll
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\bin\Debug\ET.pdb
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.dll
+D:\New folder (3)\le_anh_hao\New folder (2)\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.pdb
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\ET\bin\Debug\ET.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\ET\bin\Debug\ET.pdb
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.csproj.AssemblyReference.cache
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.csproj.CoreCompileInputs.cache
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.dll
+D:\homework\HK3\LTUD\Nhom4_Chieu2\QLBV\DoAnLTUD_QLBV\ET\obj\Debug\ET.pdb
